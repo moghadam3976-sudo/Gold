@@ -12,3 +12,5 @@ requests
 python-dotenv
 plotly
 streamlit-lottie
+streamlit
+deep-translator
